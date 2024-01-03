@@ -1,3 +1,8 @@
-.html {
-    color: salmon;
+.body {
+    background-color: black;
+}
+
+.h1 {
+    background-color: coral;
+    font-size: 90px;
 }
