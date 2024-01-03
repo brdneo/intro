@@ -1,4 +1,4 @@
-# Repositório de Estudo
+# Repositório de Estudo do Brendo
 
 Este repositório foi criado com o objetivo de aprimorar minhas habilidades de desenvolvimento. Aqui, você encontrará diversos projetos e exercícios que estou trabalhando para melhorar minhas habilidades técnicas.
 
