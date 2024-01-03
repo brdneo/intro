@@ -1,8 +1,23 @@
-.body {
-    background-color: black;
+body {
+    background: hsla(186, 33%, 94%, 1);
+
+    background: linear-gradient(
+        90deg,
+        hsla(186, 33%, 94%, 1) 0%,
+        hsla(216, 41%, 79%, 1) 100%
+    );
+
+    filter: progid: DXImageTransform.Microsoft.gradient( startColorstr="#ebf4f5", endColorstr="#b5c6e0", GradientType=1 );
 }
 
 .h1 {
-    background-color: coral;
+    background-color: red;
     font-size: 90px;
+    color: maroon;
+}
+
+.luapic {
+    width: 200px; /* Adjust the width to make the image smaller */
+    height: auto; /* Maintain aspect ratio */
+    background-color: blue;
 }
