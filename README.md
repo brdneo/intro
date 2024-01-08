@@ -1,6 +1,6 @@
-# Repositório de Estudo do Brendo
+# Repositório de Estudo
 
-Este repositório foi criado com o objetivo de aprimorar minhas habilidades de desenvolvimento. Aqui, você encontrará diversos projetos e exercícios que estou trabalhando para melhorar minhas habilidades técnicas.
+Este repositório foi criado pelo Copilot com o objetivo de aprimorar minhas habilidades de desenvolvimento. Aqui, você encontrará diversos projetos e exercícios que estou trabalhando para melhorar minhas habilidades técnicas.
 
 ## Conteúdo
 
